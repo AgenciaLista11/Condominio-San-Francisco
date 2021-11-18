@@ -1,0 +1,54 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Apartamento Condominio San Francisco - Tour Virtual 360º
+
+## Skin
+
+### Dropdown
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = RUA
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = APARTAMENTO
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = ÁREA COMUM
+
+### Multiline Text
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.069999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.74vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>LICENSED REAL ESTATE SALESPERSON</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3099999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>jhondoe@realestate.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.199999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+
+### Label
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1.text = Apartamento Condominio San Francisco
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = Unidade Condominio San Francisco
+
+## Media
+
+### Title
+panorama_38DE19CB_3384_0189_41C0_61566CF9B7A2.label = Jardim
+panorama_39716361_338C_02B9_41C2_7BE2E2517840.label = Play
+panorama_39716602_338C_027B_41C0_83E24A5953E3.label = Rua
+panorama_39717C10_338C_0697_419D_8A9DA3FBFE5F.label = Banheiro
+panorama_39718775_338C_029E_41C4_7674B9FC9901.label = Serviço
+panorama_397191BF_338C_0189_41C7_266649C76F35.label = Sacada
+panorama_397194EB_338C_0789_41C2_9CFB5ED4979C.label = Sala
+panorama_39719C66_338C_06BB_41A9_446816695AB4.label = Entrada
+panorama_39719F1F_338C_028A_41C7_1FE942A17203.label = Corredor
+panorama_3971A0CA_338C_3F8B_41BE_785CC6001394.label = Hall Terreo
+panorama_3971A940_338C_0EF7_4198_657CB2D310C4.label = Cozinha
+panorama_3971AE82_338C_027B_41BD_B02FD6A913C2.label = Hall Entrada
+panorama_39729750_338C_0296_41BA_558D5D60D6B7.label = Quarto 2
+panorama_3972DA57_338C_0299_41C7_CA326E99CDE8.label = Quarto 1
+panorama_397B283B_3384_0E89_41A1_720E3B2F22F1.label = Piscina
+
+## Action
+
+### URL
+LinkBehaviour_1588989F_34C8_E251_41C0_40F0F823A5FA.source = https://api.whatsapp.com/send?phone=5511993249492&text=Ol%C3%A1%2C%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20apartamento!
+LinkBehaviour_15958043_34C8_6230_41AC_B8FA1116C73C.source = tel:011993249492
+LinkBehaviour_15DE0431_34C8_A253_41B4_E91CA04F7C4B.source = https://api.whatsapp.com/send?phone=5511993249492&text=Ol%C3%A1%2C%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20apartamento!
+LinkBehaviour_1609FBD5_34D7_E5D0_41BA_1A3DC26E2E43.source = https://www.google.com/maps/place/Rua+Jos%C3%A9+Estev%C3%A3o+de+Magalh%C3%A3es,+146+-+Vila+Campestre,+S%C3%A3o+Paulo+-+SP,+04332-050/@-23.6572744,-46.6513128,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5ac7cea6e801:0x2aa391568241bc81!8m2!3d-23.6572744!4d-46.6491241
+LinkBehaviour_163C4CC0_34C9_A22F_41C3_ECE593DDAD5E.source = https://imovel11.com.br/
+LinkBehaviour_163F5E96_34C8_5E53_41C5_43B1C49CB8CB.source = https://www.google.com/maps/place/Rua+Jos%C3%A9+Estev%C3%A3o+de+Magalh%C3%A3es,+146+-+Vila+Campestre,+S%C3%A3o+Paulo+-+SP,+04332-050/@-23.6572744,-46.6513128,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce5ac7cea6e801:0x2aa391568241bc81!8m2!3d-23.6572744!4d-46.6491241
+LinkBehaviour_1679E7AE_34C9_EE73_41BF_FCBBC078E379.source = https://imovel11.com.br/
+LinkBehaviour_16A44610_34C8_AE2F_41C7_5D37399B9F31.source = tel:011993249492
